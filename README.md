@@ -1,6 +1,9 @@
 # GGJ2017-insanely-wavy-tsunami-panic
 Contribution to the GGJ2017, 48 hours game made in C++ using [Harfang](https://www.harfang3d.com).
 
+## WARNING
+This archived project was aimed at HARFANG® 3D engine version 1.x.x that is now superseded by [HARFANG® 3D 2.0](https://www.harfang3d.com).
+
 ![Gameplay](still1.png)
 
 #INSANELY WAVY TSUNAMI PANIC#
